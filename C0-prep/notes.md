@@ -17,3 +17,20 @@
     Tommy is a dog.
   Conclusion: Tommy has 4 legs.
   Answer: True
+
+5. Number system
+  - Binary (0, 1)
+  - Decimal (0-9)
+  - Hexadecimal (0-9, A-F)
+  - Octal (0-7)
+
+6. Arithmetic
+  - Percentage
+  - Ratio
+  - Speed / distance / Time
+
+7. Data analysis in Excel
+  - Sort, filter, formulas, pivot tables (like JS groupBy), and charts.
+
+8. Business Problem Solving
+  - Dig to the root of a problem → frame it clearly → form a testable hypothesis.
